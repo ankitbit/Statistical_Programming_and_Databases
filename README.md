@@ -9,3 +9,6 @@ Course Repository for Statistical_Programming_and_Databases
 
 ### Lectures on Matplotlib, Seaborne and plotly
 * [Python Graph Gallery](https://python-graph-gallery.com/254-pandas-stacked-area-chart/)
+
+### Notes on ML/AI 
+* [Chris ALbon](https://chrisalbon.com/)
